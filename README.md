@@ -22,11 +22,11 @@
 
 ## About
 
-I'm a researcher and engineer at the intersection of **computational physics**, **machine learning**, and **high-performance computing**. My work spans fusion plasma simulation at Princeton's Plasma Physics Labratory, Bayesian inference for astrophysical problems, and GPU-accelerated scientific simulators — built from scratch.
+I'm a researcher and engineer at the intersection of **computational physics**, **machine learning**, and **high-performance computing**. My work spans fusion plasma simulation at Princeton's Plasma Physics Labratory, Bayesian inference for astrophysical problems, and GPU-accelerated scientific simulators, built from scratch.
 
 I've been doing serious physics research since I was 16, starting with an internship at ITER (the world's largest tokamak project in France) where I was the youngest person ever placed in their science division.
 
-Currently, I'm building JAX-based digital twin frameworks for tokamak plasma simulation in collaboration with LANL, and recruiting across quant finance, physical AI, and fusion energy for summer 2025.
+Currently, I'm building JAX-based digital twin frameworks for tokamak plasma simulation in collaboration with LANL, and recruiting across quant finance, physical AI, and fusion energy for summer and fall 2026.
 
 ---
 

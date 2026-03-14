@@ -14,7 +14,7 @@
 [![LANL](https://img.shields.io/badge/Los_Alamos_National_Lab-003B6F?style=flat-square&logoColor=white)](https://lanl.gov)
 [![ITER](https://img.shields.io/badge/ITER_France_Alumnus-00539C?style=flat-square&logoColor=white)](https://iter.org)
 [![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://pppl.gov)
-[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_2025-2ea44f?style=flat-square)](mailto:YOUR_EMAIL)
+[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer/ Fall_2026-2ea44f?style=flat-square)](mailto:177634659+Haripratiik@users.noreply.github.com)
 
 </div>
 
@@ -91,7 +91,7 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 <div align="center">
 
-**[harieduam@email.com](mailto:harieduam@email.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
+**[harieduam@email.com](mailto:177634659+Haripratiik@users.noreply.github.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
 
 *Open to conversations in quant finance, fusion energy, and physical AI year round.*
 

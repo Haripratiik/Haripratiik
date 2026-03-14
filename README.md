@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+intern+in+ITER%27s+science+division;JAX+%7C+Bayesian+inference+%7C+GPU+computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+ever+intern+in+ITER%27s+science+division;JAX+%7C+AI+ML+%7C+High+Performance+computing" alt="Typing SVG" />
 
 <br/>
 
 **Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 in major
 
-*I build differentiable physics solvers, Bayesian ML pipelines, and quantitative trading systems.*
+*I build differentiable physics solvers, AI/ML + Data pipelines, and quantitative trading systems.*
 
 <br/>
 

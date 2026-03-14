@@ -84,8 +84,6 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripratiik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripratiik&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
 </div>
 

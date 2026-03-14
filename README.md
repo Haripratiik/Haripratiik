@@ -4,7 +4,7 @@
 
 <br/>
 
-**Hari** &nbsp;·&nbsp; Sophomore @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 in major
+**Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 in major
 
 *I build differentiable physics solvers, Bayesian ML pipelines, and quantitative trading systems.*
 
@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a researcher and engineer at the intersection of **computational physics**, **machine learning**, and **high-performance computing**. My work spans fusion plasma simulation at Los Alamos National Laboratory, Bayesian inference for astrophysical problems, and GPU-accelerated scientific simulators — built from scratch.
+I'm a researcher and engineer at the intersection of **computational physics**, **machine learning**, and **high-performance computing**. My work spans fusion plasma simulation at Princeton's Plasma Physics Labratory, Bayesian inference for astrophysical problems, and GPU-accelerated scientific simulators — built from scratch.
 
 I've been doing serious physics research since I was 16, starting with an internship at ITER (the world's largest tokamak project in France) where I was the youngest person ever placed in their science division.
 
@@ -35,9 +35,9 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 | Institution | Role | Domain |
 |---|---|---|
 | **Georgia Tech / Los Alamos National Lab** | Researcher — Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
-| **ITER** · Cadarache, France | Science Intern *(youngest in ITER's science division)* | International thermonuclear reactor project |
+| **ITER** · Cadarache, France | Science Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
 | **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
-| **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest selected)* | Plasma physics · fusion science |
+| **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |
 
 ---
 
@@ -45,11 +45,11 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 | Project | Description | Tech | Scale |
 |---|---|---|---|
-| **[JAX MHD Solver](YOUR_REPO_LINK)** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active LANL collaboration. | JAX · NumPy | Active |
-| **[Stock Portfolio Optimizer](YOUR_REPO_LINK)** | Genetic algorithms + MCMC sampling + ML sentiment analysis for portfolio construction and optimization | JAX · NumPyro · Python | ~25,000 lines |
-| **[SPH Medical Airflow Simulator](YOUR_REPO_LINK)** | Smoothed-particle hydrodynamics engine for medical airflow simulation. Full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
-| **[Virturoid](YOUR_REPO_LINK)** | NLP-driven procedural robot generation via genetic algorithms, RL training, and sim-to-real deployment | Python · PyTorch | End-to-end |
-| **[Dark Matter Rotation Curves](YOUR_REPO_LINK)** | Full Bayesian inference pipeline on galaxy rotation curves using NUTS/HMC sampling | JAX · NumPyro | Full pipeline |
+| **[JAX MHD Solver]** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active LANL collaboration. | JAX · NumPy | Active |
+| **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Genetic algorithms + MCMC sampling + ML sentiment analysis for portfolio construction and optimization | JAX · NumPyro · Python | ~25,000 lines |
+| **[SPH Medical Airflow Simulator](https://github.com/Haripratiik/Unity-SPH-Fluid-Simulator)** | Smoothed-particle hydrodynamics engine for medical airflow simulation. Full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
+| **[Virturoid](https://github.com/Haripratiik/Virturoid)** | NLP-driven procedural robot generation via genetic algorithms, RL training, and sim-to-real deployment | Python · PyTorch | End-to-end |
+| **[Dark Matter Rotation Curves](https://github.com/Haripratiik/Rotation-Curve-Fitting-Code)** | Full Bayesian inference pipeline on galaxy rotation curves using NUTS/HMC sampling | JAX · NumPyro | Full pipeline |
 
 ---
 
@@ -84,17 +84,17 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haripratiik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripratiik&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
 </div>
 
 ---
 
 <div align="center">
 
-**[your@email.com](mailto:your@email.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
+**[harieduam@email.com](mailto:harieduam@email.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
 
-*Open to conversations in quant finance, fusion energy, and physical AI — year round.*
+*Open to conversations in quant finance, fusion energy, and physical AI year round.*
 
 </div>

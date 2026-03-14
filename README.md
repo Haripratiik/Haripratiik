@@ -34,7 +34,7 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 | Institution | Role | Domain |
 |---|---|---|
-| **Georgia Tech / Los Alamos National Lab** | Researcher — Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
+| **Georgia Tech / Los Alamos National Lab** | Researcher - Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
 | **ITER** · Cadarache, France | Science Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
 | **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
 | **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |

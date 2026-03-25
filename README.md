@@ -50,6 +50,8 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 | **[SPH Medical Airflow Simulator](https://github.com/Haripratiik/Unity-SPH-Fluid-Simulator)** | Smoothed-particle hydrodynamics engine for medical airflow simulation. Full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
 | **[Virturoid](https://github.com/Haripratiik/Virturoid)** | NLP-driven procedural robot generation via genetic algorithms, RL training, and sim-to-real deployment | Python · PyTorch | End-to-end |
 | **[Dark Matter Rotation Curves](https://github.com/Haripratiik/Rotation-Curve-Fitting-Code)** | Full Bayesian inference pipeline on galaxy rotation curves using NUTS/HMC sampling | JAX · NumPyro | Full pipeline |
+| **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | Physics-accurate 80-bus power grid simulation with autonomous AI decision engine, asset ontology, and real-time operator console | FastAPI · React · GPT-4o · D3.js | Full stack |
+
 
 ---
 

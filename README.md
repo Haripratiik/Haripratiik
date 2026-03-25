@@ -64,6 +64,7 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=windows&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Scientific ML & Computing**
 
@@ -72,6 +73,7 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![pandapower](https://img.shields.io/badge/pandapower-FF6B35?style=flat-square&logo=powerbi&logoColor=white)
 
 **Domains**
 
@@ -80,6 +82,8 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 ![Quant Finance](https://img.shields.io/badge/Quant_Finance-1a7f37?style=flat-square)
 ![GPU Computing](https://img.shields.io/badge/GPU_Computing-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MHD Simulation](https://img.shields.io/badge/MHD_Simulation-c0392b?style=flat-square)
+![Power Systems](https://img.shields.io/badge/Power_Systems-e67e22?style=flat-square)
+![Digital Twins](https://img.shields.io/badge/Digital_Twins-0d7377?style=flat-square)
 
 ---
 

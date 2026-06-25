@@ -49,9 +49,9 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 | **[JAX MHD Solver]** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active LANL collaboration. | JAX · NumPy | Active |
 | **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Genetic algorithms + Backtesting Engine + MCMC sampling + ML sentiment analysis for portfolio construction and optimization | JAX · NumPyro · Python | ~25,000 lines |
 | **[SPH Medical Airflow Simulator](https://github.com/Haripratiik/Unity-SPH-Fluid-Simulator)** | Smoothed-particle hydrodynamics engine for medical airflow simulation. Full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
-| **[Virturoid](https://github.com/Haripratiik/Virturoid)** | NLP-driven procedural robot generation via genetic algorithms, RL training, and sim-to-real deployment | Python · PyTorch | End-to-end |
+| **[Virturoid](https://github.com/Haripratiik/Virturoid)** | Prompt-to-robot platform that generates buildable robot bodies, CAD, BOMs, MuJoCo simulations, and learned controllers from natural language | Python · MuJoCo/MJX · JAX · PyTorch · build123d · Three.js | End-to-end |
 | **[Dark Matter Rotation Curves](https://github.com/Haripratiik/Rotation-Curve-Fitting-Code)** | Full Bayesian inference pipeline on galaxy rotation curves using NUTS/HMC sampling | JAX · NumPyro | Full pipeline |
-| **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | Physics-accurate 80-bus power grid simulation with autonomous AI decision engine, asset ontology, and real-time operator console | FastAPI · React · GPT-4o · D3.js | Full stack |
+| **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations | FastAPI · React · GPT-4o · pandapower · D3.js | Full stack · 129 tests |
 
 
 

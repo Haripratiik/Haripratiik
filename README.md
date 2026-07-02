@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+ever+intern+in+ITER%27s+science+division;JAX+%7C+AI+ML+%7C+High+Performance+computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+ever+intern+in+ITER%27s+science+division;JAX+%7C+AI%2FML+%7C+High-performance+computing" alt="Typing SVG" />
 
 <br/>
 
 **Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 in major
 
-*I build differentiable physics solvers, AI/ML + Data pipelines, and quantitative trading systems.*
+*I build differentiable physics solvers, scientific ML pipelines, and quantitative trading systems.*
 
 <br/>
 
@@ -14,7 +14,7 @@
 [![LANL](https://img.shields.io/badge/Los_Alamos_National_Lab-003B6F?style=flat-square&logoColor=white)](https://lanl.gov)
 [![ITER](https://img.shields.io/badge/ITER_France_Alumnus-00539C?style=flat-square&logoColor=white)](https://iter.org)
 [![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://pppl.gov)
-[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_/_Fall_2026-2ea44f?style=flat-square)](mailto:177634659+Haripratiik@users.noreply.github.com)
+[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_/_Fall_2026-2ea44f?style=flat-square)](mailto:harieduam@gmail.com)
 
 </div>
 
@@ -22,11 +22,9 @@
 
 ## About
 
-I'm a researcher and engineer at the intersection of **computational physics**, **machine learning**, and **high-performance computing**. My work spans fusion plasma simulation at Princeton's Plasma Physics Labratory, Bayesian inference for astrophysical problems, and GPU-accelerated scientific simulators, built from scratch.
+My main focus is computational physics and scientific machine learning, mostly fusion plasma simulation. I've done that research at Princeton's Plasma Physics Laboratory and, before that, at ITER in France, which I joined at 16. Alongside the physics I write a lot of quantitative-trading and GPU-accelerated simulation code, most of it built from scratch.
 
-I've been doing serious physics research since I was 16, starting with an internship at ITER (the world's largest tokamak project in France) where I was the youngest person ever placed in their science division.
-
-Currently, I'm building JAX-based digital twin frameworks for tokamak plasma simulation in collaboration with LANL, and recruiting across quant finance, physical AI, and fusion energy for summer and fall 2026.
+Right now I'm working with Los Alamos National Lab (Dr. Qi Tang's group) on JAX-based digital twins for tokamak plasma simulation. I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fusion energy.
 
 ---
 
@@ -34,7 +32,7 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 | Institution | Role | Domain |
 |---|---|---|
-| **Georgia Tech / Los Alamos National Lab** | Researcher - Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
+| **Georgia Tech / Los Alamos National Lab** | Researcher — Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
 | **ITER** · Cadarache, France | Science Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
 | **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
 | **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |
@@ -45,15 +43,16 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 | Project | Description | Tech | Scale |
 |---|---|---|---|
-| **[MOSAIC Context Manager](https://github.com/Haripratiik/MOSAIC-Context-Manager)** | Permission-aware context management layer for retrieval-heavy AI systems. Retrieves, filters, audits, and serves the right context to LLM workflows through a CLI, UI, and MCP server. | Python · JAX · MCP · SQLite | End-to-end |
-| **[JAX MHD Solver]** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active LANL collaboration. | JAX · NumPy | Active |
-| **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Genetic algorithms + Backtesting Engine + MCMC sampling + ML sentiment analysis for portfolio construction and optimization | JAX · NumPyro · Python | ~25,000 lines |
-| **[SPH Medical Airflow Simulator](https://github.com/Haripratiik/Unity-SPH-Fluid-Simulator)** | Smoothed-particle hydrodynamics engine for medical airflow simulation. Full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
-| **[Virturoid](https://github.com/Haripratiik/Virturoid)** | Prompt-to-robot platform that generates buildable robot bodies, CAD, BOMs, MuJoCo simulations, and learned controllers from natural language | Python · MuJoCo/MJX · JAX · PyTorch · build123d · Three.js | End-to-end |
-| **[Dark Matter Rotation Curves](https://github.com/Haripratiik/Rotation-Curve-Fitting-Code)** | Full Bayesian inference pipeline on galaxy rotation curves using NUTS/HMC sampling | JAX · NumPyro | Full pipeline |
-| **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations | FastAPI · React · GPT-4o · pandapower · D3.js | Full stack · 129 tests |
-
-
+| **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Portfolio construction and optimization using genetic algorithms, a custom backtesting engine, MCMC sampling, and ML sentiment analysis. | JAX · NumPyro · Python | ~25,000 lines |
+| **[Plasma-Physics Macro Placement](https://github.com/Haripratiik/Plasma-Fusion-Physics-Macro-Place-Algo)** | Macro-placement solver for the Partcl × Hudson River Trading 2026 challenge. Models chip placement as a Grad–Shafranov / MHD equilibrium: macros act as current-bearing particles, nets set the current topology, and the layout relaxes toward a low-energy state. | Python · MHD · Optimization | 17/17 benchmarks valid |
+| **[Portfolio Regime & Stress Lab](https://github.com/Haripratiik/Portfolio-Regime-Stress-Lab)** | Time-series study of how stress builds and spreads across mega-cap tech stocks: K-Means regime detection, a custom stress-propagation score, walk-forward ARIMA volatility forecasting benchmarked against a naive baseline, and GBM Monte Carlo VaR/CVaR. Companion to the Stock Portfolio Optimizer. | Python · scikit-learn · statsmodels | Quant mentorship capstone |
+| **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations. | FastAPI · React · GPT-4o · pandapower · D3.js | Full stack · 129 tests |
+| **[MOSAIC Context Manager](https://github.com/Haripratiik/MOSAIC-Context-Manager)** | Permission-aware context layer for retrieval-heavy AI systems. Retrieves, filters, audits, and serves scoped context to LLM workflows through a CLI, a UI, and an MCP server. | Python · JAX · MCP · SQLite | End-to-end |
+| **[Virturoid](https://github.com/Haripratiik/Virturoid)** | Prompt-to-robot platform that turns natural-language prompts into buildable robot bodies, CAD, BOMs, MuJoCo simulations, and learned controllers. | Python · MuJoCo/MJX · JAX · PyTorch · build123d · Three.js | End-to-end |
+| **[Internship Tracker](https://github.com/Haripratiik/InternshipTracker)** | Full-stack internship and new-grad job tracker with multi-source scraping, GPT-4o relevance scoring, a Kanban pipeline, and a Chrome extension that auto-fills applications across Greenhouse, Lever, Workday, and Ashby. | Next.js · TypeScript · Firebase · GPT-4o | Full stack |
+| **JAX MHD Solver** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active collaboration with LANL. | JAX · NumPy | Active |
+| **[SPH Medical Airflow Simulator](https://github.com/Haripratiik/Unity-SPH-Fluid-Simulator)** | Smoothed-particle hydrodynamics engine that simulates airflow through the respiratory bronchioles of a lung, with wall-mesh and particle collision handling. Runs as a full GPU compute pipeline. | C# · HLSL · Unity | ~5,000 lines |
+| **[Dark Matter Rotation Curves](https://github.com/Haripratiik/Rotation-Curve-Fitting-Code)** | Bayesian inference pipeline that fits galaxy rotation curves to competing dark-matter models using NUTS/HMC sampling and BIC model selection. | JAX · NumPyro | Full pipeline |
 
 ---
 
@@ -99,8 +98,8 @@ Currently, I'm building JAX-based digital twin frameworks for tokamak plasma sim
 
 <div align="center">
 
-**[harieduam@email.com](mailto:177634659+Haripratiik@users.noreply.github.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
+**[harieduam@gmail.com](mailto:harieduam@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
 
-*Open to conversations in quant finance, fusion energy, and physical AI year round.*
+*Always happy to talk quant finance, fusion energy, and physical AI.*
 
 </div>

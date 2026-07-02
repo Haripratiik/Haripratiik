@@ -24,7 +24,7 @@
 
 My main focus is computational physics and scientific machine learning, mostly fusion plasma simulation. I've done that research at Princeton's Plasma Physics Laboratory and, before that, at ITER in France, which I joined at 16. Alongside the physics I write a lot of quantitative-trading and GPU-accelerated simulation code, most of it built from scratch.
 
-Right now I'm working with Los Alamos National Lab (Dr. Qi Tang's group) on JAX-based digital twins for tokamak plasma simulation. I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fusion energy.
+I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fusion energy.
 
 ---
 

@@ -89,14 +89,6 @@ I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fu
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripratiik&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
-</div>
-
----
-
 <div align="center">
 
 **[harieduam@gmail.com](mailto:harieduam@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**

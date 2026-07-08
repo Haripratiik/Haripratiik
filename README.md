@@ -4,7 +4,7 @@
 
 <br/>
 
-**Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 in major
+**Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 major GPA
 
 *I build differentiable physics solvers, scientific ML pipelines, and quantitative trading systems.*
 
@@ -33,7 +33,7 @@ I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fu
 | Institution | Role | Domain |
 |---|---|---|
 | **Georgia Tech / Los Alamos National Lab** | Researcher — Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
-| **ITER** · Cadarache, France | Science Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
+| **ITER** · Cadarache, France | Software Engineering Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
 | **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
 | **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |
 

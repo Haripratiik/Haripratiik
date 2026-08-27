@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+ever+intern+in+ITER%27s+science+division;JAX+%7C+AI%2FML+%7C+High-performance+computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computational+physicist+%2B+ML+engineer;Plasma+simulation+%40+Georgia+Tech+%2F+LANL;Youngest+ever+intern+in+ITER%27s+science+division;JAX+%7C+AI%2FML+%7C+High-performance+computing;Exchange+systems+%7C+Market+microstructure+%7C+Quant+research" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 [![LANL](https://img.shields.io/badge/Los_Alamos_National_Lab-003B6F?style=flat-square&logoColor=white)](https://lanl.gov)
 [![ITER](https://img.shields.io/badge/ITER_France_Alumnus-00539C?style=flat-square&logoColor=white)](https://iter.org)
 [![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://pppl.gov)
-[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_/_Fall_2026-2ea44f?style=flat-square)](mailto:harieduam@gmail.com)
+[![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_2027-2ea44f?style=flat-square)](mailto:harieduam@gmail.com)
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ## About
 
-My main focus is computational physics and scientific machine learning, mostly fusion plasma simulation. I've done that research at Princeton's Plasma Physics Laboratory and, before that, at ITER in France, which I joined at 16. Alongside the physics I write a lot of quantitative-trading and GPU-accelerated simulation code, most of it built from scratch.
+My main focus is computational physics and scientific machine learning, mostly fusion plasma simulation. I've done that research at Princeton's Plasma Physics Laboratory and, before that, at ITER in France, which I joined at 16. Alongside the physics I write a lot of quantitative-trading and GPU-accelerated simulation code, most of it built from scratch. Most recently that has meant building two market systems end to end: a matching engine and clearing house with its own research harness, and a full execution stack pointed at a live venue.
 
-I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fusion energy.
+I'm looking for summer 2027 roles in quant finance, physical AI, and fusion energy.
 
 ---
 
@@ -32,7 +32,7 @@ I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fu
 
 | Institution | Role | Domain |
 |---|---|---|
-| **Georgia Tech / Los Alamos National Lab** | Researcher — Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
+| **Georgia Tech / Los Alamos National Lab** | Researcher, Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
 | **ITER** · Cadarache, France | Software Engineering Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
 | **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
 | **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |
@@ -43,6 +43,8 @@ I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fu
 
 | Project | Description | Tech |
 |---|---|---|
+| **[Prediction Market Trading Engine](https://github.com/Haripratiik/prediction-market-trading-engine)** | Full trading stack for Kalshi built on 7.5M rows of live venue data. Enumerates a 138k market universe, forms and risk-checks multi-leg structures, executes through a diff-based order manager with idempotency keys and a five-second kill switch, and materializes counterfactual fills against the real trade tape. Used it to measure how efficient the venue actually is across 4,258 settled markets. | Python · SQLite · WebSockets · Anytime-valid statistics |
+| **[Artificial Brawl Stars Exchange](https://github.com/Haripratiik/artificial-brawlstars-exchange)** | An electronic exchange written from scratch, where game battle statistics are the economic fundamentals. Nine asset classes on one matching engine, a deterministic discrete-event kernel with per-agent latency, opening and closing auctions, circuit breakers, exact collateral netting on integer money, and a browser front end you can trade on. Built to test whether a market aggregates information better than its own traders. | Python · FastAPI · Discrete-event simulation · ES modules |
 | **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Portfolio construction and optimization using genetic algorithms, a custom backtesting engine, MCMC sampling, and ML sentiment analysis. | JAX · NumPyro · Python |
 | **[Virturoid](https://github.com/Haripratiik/Virturoid)** | Prompt-to-robot platform that turns natural-language prompts into buildable robot bodies, CAD, BOMs, MuJoCo simulations, and learned controllers. | Python · MuJoCo/MJX · JAX · PyTorch · build123d · Three.js |
 | **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations. | FastAPI · React · GPT-4o · pandapower · D3.js |
@@ -82,6 +84,7 @@ I'm looking for summer and fall 2026 roles in quant finance, physical AI, and fu
 ![Plasma Physics](https://img.shields.io/badge/Plasma_Physics-0a66c2?style=flat-square)
 ![Bayesian Inference](https://img.shields.io/badge/Bayesian_Inference-7B2FBE?style=flat-square)
 ![Quant Finance](https://img.shields.io/badge/Quant_Finance-1a7f37?style=flat-square)
+![Market Microstructure](https://img.shields.io/badge/Market_Microstructure-0A0A0A?style=flat-square)
 ![GPU Computing](https://img.shields.io/badge/GPU_Computing-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MHD Simulation](https://img.shields.io/badge/MHD_Simulation-c0392b?style=flat-square)
 ![Power Systems](https://img.shields.io/badge/Power_Systems-e67e22?style=flat-square)

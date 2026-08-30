@@ -34,7 +34,7 @@ I'm looking for summer 2027 internships in software engineering, quant finance, 
 
 ---
 
-## Research
+## Experience
 
 | Institution | Role | Domain |
 |---|---|---|
@@ -56,7 +56,7 @@ I'm looking for summer 2027 internships in software engineering, quant finance, 
 | **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations. | FastAPI · React · GPT-4o · pandapower · D3.js |
 | **[Internship Tracker](https://github.com/Haripratiik/InternshipTracker)** | Full-stack internship and new-grad job tracker with multi-source scraping, GPT-4o relevance scoring, a Kanban pipeline, and a Chrome extension that auto-fills applications across Greenhouse, Lever, Workday, and Ashby. | Next.js · TypeScript · Firebase · GPT-4o |
 | **[MOSAIC Context Manager](https://github.com/Haripratiik/MOSAIC-Context-Manager)** | Permission-aware context layer for retrieval-heavy AI systems. Retrieves, filters, audits, and serves scoped context to LLM workflows through a CLI, a UI, and an MCP server. | Python · JAX · MCP · SQLite |
-| **JAX MHD Solver** | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Active collaboration with LANL. | JAX · NumPy |
+| **JAX MHD Solver** *(private)* | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Ongoing collaboration with LANL, so the code is not public. | JAX · NumPy |
 | **[Plasma-Physics Macro Placement](https://github.com/Haripratiik/Plasma-Fusion-Physics-Macro-Place-Algo)** | Macro-placement solver for the Partcl × Hudson River Trading 2026 challenge. Models chip placement as a Grad-Shafranov / MHD equilibrium: macros act as current-bearing particles, nets set the current topology, and the layout relaxes toward a low-energy state. | Python · MHD · Optimization |
 | **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Portfolio construction and optimization using genetic algorithms, a custom backtesting engine, MCMC sampling, and ML sentiment analysis. | JAX · NumPyro · Python |
 | **[Portfolio Regime & Stress Lab](https://github.com/Haripratiik/Portfolio-Regime-Stress-Lab)** | Time-series study of how stress builds and spreads across mega-cap tech stocks: K-Means regime detection, a custom stress-propagation score, walk-forward ARIMA volatility forecasting benchmarked against a naive baseline, and GBM Monte Carlo VaR/CVaR. Companion to the Stock Portfolio Optimizer. | Python · scikit-learn · statsmodels |
@@ -114,6 +114,6 @@ I'm looking for summer 2027 internships in software engineering, quant finance, 
 
 **[harieduam@gmail.com](mailto:harieduam@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/haripratiik)** &nbsp;·&nbsp; **[Georgia Tech](https://gatech.edu)**
 
-*Always happy to talk quant finance, fusion energy, and physical AI.*
+*Always happy to talk software engineering, quant finance, and fusion energy.*
 
 </div>

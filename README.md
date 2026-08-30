@@ -4,7 +4,7 @@
 
 <br/>
 
-**Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor &nbsp;·&nbsp; 4.0 major GPA
+**Hari** &nbsp;·&nbsp; Student @ Georgia Tech &nbsp;·&nbsp; CS (Intelligence + Modeling/Simulation) + Physics Minor
 
 *Differentiable physics solvers, exchange and trading systems, and the software around both.*
 

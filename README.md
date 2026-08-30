@@ -30,7 +30,7 @@ My work runs along three tracks. They have more in common than they look like th
 
 **Software.** Most of what I ship is a system rather than a script. The exchange serves 17 REST routes and a streaming socket behind HMAC-signed requests, with a browser trading terminal on top of it. The trading engine runs four processes against a WAL-mode SQLite store, with idempotency keys minted before every network call and a kill switch that stops everything in five seconds. Between the two there are about 2,200 tests. I also build full-stack web applications, a Chrome extension, an MCP server, and CI/CD and runtime monitoring for AI agents.
 
-I'm looking for summer 2027 roles in quant finance, physical AI, and fusion energy.
+I'm looking for summer 2027 internships in software engineering, quant finance, and physical AI.
 
 ---
 

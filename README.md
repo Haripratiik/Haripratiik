@@ -36,12 +36,12 @@ I'm looking for summer 2027 internships in software engineering, quant finance, 
 
 ## Experience
 
-| Institution | Role | Domain |
-|---|---|---|
-| **Georgia Tech / Los Alamos National Lab** | Researcher, Dr. Qi Tang's group | JAX MHD solvers · differentiable tokamak digital twins |
-| **ITER** · Cadarache, France | Software Engineering Intern *(youngest ever in ITER's science division)* | International thermonuclear reactor project |
-| **Princeton Plasma Physics Laboratory** | Research | Spin-polarized fusion · field-reversed configuration plasmas |
-| **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Plasma physics · fusion science |
+| Institution | Role | Period | Focus |
+|---|---|---|---|
+| **Georgia Tech / Los Alamos National Lab** | Researcher, Dr. Qi Tang's group | Feb 2026 - Present | JAX MHD solvers · differentiable tokamak digital twins · HPC |
+| **Princeton Plasma Physics Laboratory** | Research Intern | Jun 2025 - Aug 2025 | Spin-polarized fusion · field-reversed configuration plasmas |
+| **ITER** · Cadarache, France | Software Engineering Intern *(youngest ever in ITER's science division)* | Jul 2024 - Aug 2024 | JAX/XLA solver optimization · FastAPI services · CI/CD |
+| **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Jun 2024 | Plasma physics · fusion science |
 
 ---
 

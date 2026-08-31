@@ -22,15 +22,13 @@
 
 ## About
 
-My work runs along three tracks. They have more in common than they look like they do: all three come down to simulation, measurement, and the software that makes both trustworthy.
+I'm a CS student at Georgia Tech. I build large systems from scratch and put real test suites behind them: an electronic exchange with its own matching engine and clearing house, a trading engine running against a live venue, and differentiable physics solvers for fusion plasma research. The two market systems come to about 47,000 lines behind 2,200 tests.
 
-**Research and physical AI.** Fusion plasma simulation and differentiable physics, currently with Dr. Qi Tang's group at Georgia Tech and Los Alamos. Before that, research at Princeton's Plasma Physics Laboratory and at ITER in France, which I joined at 16. Alongside it I build simulated bodies and controllers, GPU physics engines, and digital twins.
+The physics is my research track, currently with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and before that at Princeton PPPL and at ITER, which I joined at 16.
 
-**Quant.** Market systems written from scratch: an electronic exchange with its own matching engine, clearing house and trading agents, and a full execution stack pointed at a live venue, each with the research harness needed to measure what it actually does.
+**Currently building** a REST and WebSocket API for the exchange, and measuring how efficient Kalshi's prediction markets are across 4,258 settled markets.
 
-**Software.** Most of what I ship is a system rather than a script. The exchange serves 17 REST routes and a streaming socket behind HMAC-signed requests, with a browser trading terminal on top of it. The trading engine runs four processes against a WAL-mode SQLite store, with idempotency keys minted before every network call and a kill switch that stops everything in five seconds. Between the two there are about 2,200 tests. I also build full-stack web applications, a Chrome extension, an MCP server, and CI/CD and runtime monitoring for AI agents.
-
-I'm looking for summer 2027 internships in software engineering, quant finance, and physical AI.
+**Looking for** summer 2027 internships in software engineering, quant finance, and physical AI.
 
 ---
 

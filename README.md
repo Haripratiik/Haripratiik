@@ -22,11 +22,9 @@
 
 ## About
 
-I'm a CS student at Georgia Tech. I build exchange and trading systems, write differentiable physics solvers for fusion plasma research, and ship the full-stack software around both.
+I'm a CS student at Georgia Tech, and most of my work is simulation: differentiable physics solvers for fusion plasma research, robot morphologies and control policies trained in parallel GPU simulation, and electronic markets designed from the matching engine up. I ship the web applications, APIs and tooling that go around all of it.
 
 My research is with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and before that at Princeton PPPL and at ITER, which I joined at 16.
-
-**Currently building** a trading API for the exchange simulator, and a study of prediction-market microstructure.
 
 **Looking for** summer 2027 internships in software engineering, quant finance, and physical AI.
 

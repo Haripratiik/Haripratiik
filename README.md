@@ -22,11 +22,13 @@
 
 ## About
 
-I'm a CS student at Georgia Tech. I build large systems from scratch and put real test suites behind them: an electronic exchange with its own matching engine and clearing house, a trading engine running against a live venue, and differentiable physics solvers for fusion plasma research. The two market systems come to about 47,000 lines behind 2,200 tests.
+I'm a CS student at Georgia Tech. I build complete systems and then run experiments on them.
 
-The physics is my research track, currently with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and before that at Princeton PPPL and at ITER, which I joined at 16.
+The largest is an electronic exchange written from scratch, with a matching engine carrying the order types real venues list, a clearing house, opening and closing auctions, circuit breakers, a signed REST and WebSocket API, and a browser terminal you can log into and trade on. Next to it is a trading engine that records a live prediction market and tests it for a retail edge, across 4,258 settled markets and 7.5 million rows of venue data.
 
-**Currently building** a REST and WebSocket API for the exchange, and measuring how efficient Kalshi's prediction markets are across 4,258 settled markets.
+The research thread is fusion plasma simulation and differentiable physics, currently with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and before that at Princeton PPPL and at ITER, which I joined at 16.
+
+**Currently building** the exchange's API, and a study of Kalshi's market microstructure.
 
 **Looking for** summer 2027 internships in software engineering, quant finance, and physical AI.
 

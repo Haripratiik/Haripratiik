@@ -12,7 +12,7 @@
 
 [![Georgia Tech](https://img.shields.io/badge/Georgia_Tech-B3A369?style=flat-square&logoColor=white)](https://gatech.edu)
 [![ITER](https://img.shields.io/badge/ITER_France_Alumnus-00539C?style=flat-square&logoColor=white)](https://iter.org)
-[![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://pppl.gov)
+[![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://www.pppl.gov)
 [![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_2027-2ea44f?style=flat-square)](mailto:harieduam@gmail.com)
 
 </div>

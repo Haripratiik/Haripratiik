@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%2B+full-stack+software+engineer;Physical+AI+%2B+computational+physics+%40+Georgia+Tech+%2F+LANL;Exchange+systems+%7C+market+microstructure+%7C+quant+research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%2B+full-stack+software+engineer;Physical+AI+%2B+computational+physics+%40+Georgia+Tech;Exchange+systems+%7C+market+microstructure+%7C+quant+research" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,6 @@
 <br/>
 
 [![Georgia Tech](https://img.shields.io/badge/Georgia_Tech-B3A369?style=flat-square&logoColor=white)](https://gatech.edu)
-[![LANL](https://img.shields.io/badge/Los_Alamos_National_Lab-003B6F?style=flat-square&logoColor=white)](https://lanl.gov)
 [![ITER](https://img.shields.io/badge/ITER_France_Alumnus-00539C?style=flat-square&logoColor=white)](https://iter.org)
 [![PPPL](https://img.shields.io/badge/Princeton_PPPL-FF6B00?style=flat-square&logoColor=white)](https://pppl.gov)
 [![Open to Internships](https://img.shields.io/badge/Open_to_Internships_Summer_2027-2ea44f?style=flat-square)](mailto:harieduam@gmail.com)
@@ -24,7 +23,7 @@
 
 I'm a CS student at Georgia Tech, and most of my work is simulation: differentiable physics solvers for fusion plasma research, robot morphologies and control policies trained in parallel GPU simulation, and electronic markets designed from the matching engine up. I ship the web applications, APIs and tooling that go around all of it.
 
-My research is with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and before that at Princeton PPPL and at ITER, which I joined at 16.
+My research is with Dr. Qi Tang's group at Georgia Tech, and before that at Princeton PPPL and at ITER, which I joined at 16.
 
 **Looking for** summer 2027 internships in software engineering, quant finance, and physical AI.
 
@@ -34,7 +33,7 @@ My research is with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and befo
 
 | Institution | Role | Period | Focus |
 |---|---|---|---|
-| **Georgia Tech / Los Alamos National Lab** | Researcher, Dr. Qi Tang's group | Feb 2026 - Present | JAX MHD solvers · differentiable tokamak digital twins · HPC |
+| **Georgia Tech** | Researcher, Dr. Qi Tang's group | Feb 2026 - Present | JAX MHD solvers · differentiable tokamak digital twins · HPC |
 | **Princeton Plasma Physics Laboratory** | Research Intern | Jun 2025 - Aug 2025 | Spin-polarized fusion · field-reversed configuration plasmas |
 | **ITER** · Cadarache, France | Software Engineering Intern *(youngest ever in ITER's science division)* | Jul 2024 - Aug 2024 | JAX/XLA solver optimization · FastAPI services · CI/CD |
 | **17th Kudowa Fusion Summer School** · Poland | Selected Researcher *(youngest ever selected)* | Jun 2024 | Plasma physics · fusion science |
@@ -52,7 +51,7 @@ My research is with Dr. Qi Tang's group at Georgia Tech and Los Alamos, and befo
 | **[Energy Grid Digital Twin](https://github.com/Haripratiik/Energy-Grid-Digital-Twin)** | 80-bus power-grid digital twin with IEEE-validated power flow, real-time state estimation, N-1 contingency screening, and physics-gated AI operations. | FastAPI · React · GPT-4o · pandapower · D3.js |
 | **[Internship Tracker](https://github.com/Haripratiik/InternshipTracker)** | Full-stack internship and new-grad job tracker with multi-source scraping, GPT-4o relevance scoring, a Kanban pipeline, and a Chrome extension that auto-fills applications across Greenhouse, Lever, Workday, and Ashby. | Next.js · TypeScript · Firebase · GPT-4o |
 | **[MOSAIC Context Manager](https://github.com/Haripratiik/MOSAIC-Context-Manager)** | Permission-aware context layer for retrieval-heavy AI systems. Retrieves, filters, audits, and serves scoped context to LLM workflows through a CLI, a UI, and an MCP server. | Python · JAX · MCP · SQLite |
-| **JAX MHD Solver** *(private)* | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Ongoing collaboration with LANL, so the code is not public. | JAX · NumPy |
+| **JAX MHD Solver** *(private)* | Differentiable magnetohydrodynamics solver for tokamak plasma simulation. Ongoing research collaboration, so the code is not public. | JAX · NumPy |
 | **[Plasma-Physics Macro Placement](https://github.com/Haripratiik/Plasma-Fusion-Physics-Macro-Place-Algo)** | Macro-placement solver for the Partcl × Hudson River Trading 2026 challenge. Models chip placement as a Grad-Shafranov / MHD equilibrium: macros act as current-bearing particles, nets set the current topology, and the layout relaxes toward a low-energy state. | Python · MHD · Optimization |
 | **[Stock Portfolio Optimizer](https://github.com/Haripratiik/Stock-Portfolio-Optimizer)** | Portfolio construction and optimization using genetic algorithms, a custom backtesting engine, MCMC sampling, and ML sentiment analysis. | JAX · NumPyro · Python |
 | **[Portfolio Regime & Stress Lab](https://github.com/Haripratiik/Portfolio-Regime-Stress-Lab)** | Time-series study of how stress builds and spreads across mega-cap tech stocks: K-Means regime detection, a custom stress-propagation score, walk-forward ARIMA volatility forecasting benchmarked against a naive baseline, and GBM Monte Carlo VaR/CVaR. Companion to the Stock Portfolio Optimizer. | Python · scikit-learn · statsmodels |
